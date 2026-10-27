@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.vscode/
+data/spam.csv
+spam_model.pkl
+spam_model_improved.pkl
+spam_threshold.json
